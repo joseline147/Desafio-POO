@@ -1,0 +1,1 @@
+Neste repositório, você encontrará a implementação do Desafio de Projeto da DIO. O desafio consiste na elaboração da diagramação das classes e interfaces com a proposta de representar os papéis do iPhone de: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
